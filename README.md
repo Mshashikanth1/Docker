@@ -1,0 +1,3 @@
+this repo contains some cool docker compose, & local infra setup scripts , configs etc...
+
+1). common zookeeper config
